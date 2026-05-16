@@ -1,0 +1,22 @@
+# Personal working / session-log files — not for public publication
+phase5.md
+phase6-session2-memory-log.md
+orange-migration-plan.md
+phase7-iptv-next-steps.md
+
+# Captures (may contain network identifiers)
+*.pcap
+*.pcapng
+
+# Auth credentials
+etc/orange-auth
+
+# macOS metadata
+.DS_Store
+
+# Editor temp files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/

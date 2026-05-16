@@ -1,0 +1,10 @@
+# Orange France DHCP authentication credentials.
+# Format: USERNAME:PASSWORD on a single line, no spaces, no quotes.
+# Username is usually fti/<id>; password is provided by Orange (paper documentation or Orange app).
+# This file must be owned by root and chmod 600.
+#
+# Copy to /etc/orange-auth on the OpenWrt router. The orange-gen-auth.sh script reads it
+# to generate fresh DHCP Option 90 (and DHCPv6 Option 11) RFC 3118 authentication blobs.
+#
+# Example:
+fti/abc1234:replace-with-actual-password
