@@ -10,7 +10,7 @@ A technical writeup, not a software project. It documents a hands-on procedure f
 
 Top-level published files:
 
-- `gpon-openwrt-readme.md` — the headline guide. Contains the executive summary, the "Critical insights not in the public docs" findings, inline copies of the three shell scripts, and links into `docs/`.
+- `README.md` — the headline guide. Contains the executive summary, the "Critical insights not in the public docs" findings, and pointers into `docs/` and `scripts/`. Procedural detail lives in `docs/`; the scripts live in `scripts/` (and are also embedded inline in the relevant phase docs).
 - `docs/01-prerequisites.md` through `docs/20-references.md` — long-form material, one walkthrough per phase plus reference docs (BPI-R3 specifics, MA5671A specifics, Orange France specifics, OMCI architecture deep dive, troubleshooting catalogue, references). `docs/04a-rooting-the-ma5671a.md` is an out-of-band pointer doc for the rooting pre-step (the canonical procedure lives at hack-gpon.org; we deliberately don't duplicate it). Phases marked WIP at the top of each phase doc are sketches based on the original migration plan, not validated procedures.
 - `scripts/orange-wan-config.sh`, `scripts/orange-gen-auth.sh`, `scripts/ma5671a-diagnostic.sh` — standalone copies of the scripts. Mirrored in the README and in the relevant phase docs; keep all copies in sync.
 - `etc/orange-auth.example` — credential file template.
