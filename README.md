@@ -2,6 +2,7 @@
 title: Home
 nav_order: 0
 layout: home
+permalink: /
 ---
 
 # Direct GPON Termination on OpenWrt

@@ -49,7 +49,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-readme-index
 
 # Files to exclude from the build
 exclude:
