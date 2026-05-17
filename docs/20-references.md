@@ -1,3 +1,8 @@
+---
+title: References and credits
+nav_order: 21
+---
+
 # 20 — References, tools, and credits
 
 A consolidated list of where to look for further information, what tools to have to hand, and acknowledgements for prior work this guide builds on.

@@ -1,3 +1,8 @@
+---
+title: OMCI architecture deep dive
+nav_order: 19
+---
+
 # 18 — OMCI architecture on the rooted MA5671A
 
 A deep dive into how OMCI identity is set, read, and reported on the rooted Huawei MA5671A firmware. This document exists because the practical procedure ([`09-phase4-ma5671a-omci-clone.md`](09-phase4-ma5671a-omci-clone.md)) gives you the right commands without explaining why those specific commands and not others; the wrong mental model wastes hours.

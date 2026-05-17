@@ -1,3 +1,8 @@
+---
+title: Troubleshooting catalogue
+nav_order: 20
+---
+
 # 19 — Troubleshooting and verification
 
 A catalogue of common failure modes for a direct-GPON setup on OpenWrt, with the diagnostic that distinguishes each. Organised by symptom; cross-references the phase that introduced the relevant configuration.

@@ -1,3 +1,8 @@
+---
+title: "Phase 0: Inventory"
+nav_order: 6
+---
+
 # 05 — Phase 0: Inventory and backup
 
 ## Goal

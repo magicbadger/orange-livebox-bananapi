@@ -1,3 +1,8 @@
+---
+title: "Phase 3: Disable ISP modem WiFi"
+nav_order: 9
+---
+
 # 08 — Phase 3: Disable WiFi on the ISP modem
 
 ## Goal

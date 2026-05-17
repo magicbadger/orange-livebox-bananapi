@@ -1,3 +1,8 @@
+---
+title: MA5671A specifics
+nav_order: 3
+---
+
 # 03 — Huawei MA5671A specifics
 
 The MA5671A is a GPON SFP stick originally sold as a customer-premises ONT for B2B applications. The community has rooted several firmware variants. This guide describes the variant most commonly distributed by hack-gpon-community-trusted sellers: a Huawei stock firmware on an OpenWrt 14.07 base, with SSH access enabled and the management interface bound to `192.168.1.10`.

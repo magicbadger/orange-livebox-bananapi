@@ -1,3 +1,8 @@
+---
+title: "Phase 8: VoIP (stretch)"
+nav_order: 15
+---
+
 # 14 — Phase 8: VoIP / SIP (stretch goal)
 
 > **Status: stretch goal, with a pragmatic hybrid path identified.** This phase has not been validated end-to-end, but Phase 7's investigation surfaced that the realistic resolution for both TV and VoIP is the **Livebox-on-LAN hybrid** (option 3 below, which is also Phase 7 option 2). The harder paths — extracting SIP credentials or spoofing TR-069 — are now better characterised but remain blocked by the same Orange PKI architecture that protects the TV decoder. See `docs/13-phase7-iptv.md` for the full architectural picture; this doc focuses on the VoIP-specific framing.

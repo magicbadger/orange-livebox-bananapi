@@ -1,3 +1,8 @@
+---
+title: Orange France notes
+nav_order: 4
+---
+
 # 04 — Orange France notes
 
 Everything in this document is Orange France-specific. If you're on another ISP, the principles transfer (capture options from a working modem, replicate them on your router) but the specific values will not.

@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 0
+layout: home
+---
+
 # Direct GPON Termination on OpenWrt
 
 A practical, field-tested guide to replacing an ISP-provided GPON router (e.g. Orange France Livebox) with a generic Linux router running OpenWrt, using a rooted GPON SFP stick. Written from hands-on experience with a Banana Pi BPI-R3 and a Huawei MA5671A on Orange France fibre, but generalisable to any OpenWrt-capable router with an SFP cage and a supported ONT stick.

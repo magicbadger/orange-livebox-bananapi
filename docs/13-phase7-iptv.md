@@ -1,3 +1,8 @@
+---
+title: "Phase 7: IPTV (investigation)"
+nav_order: 14
+---
+
 # 13 — Phase 7: IPTV multicast via VLAN 840
 
 > **Status: investigated, blocked on decoder activation.** The multicast plumbing (VLAN 840 + `igmpproxy`) in the second half of this document is correct for what it does, but an earlier blocker has been identified: the Orange France TV decoder cannot complete its activation handshake against Orange's STB cloud on a BPI-R3-only setup, regardless of multicast configuration. Both live TV and VOD fail with "Erreur G01" because activation never succeeds. The root cause is **mutual TLS authentication between the decoder and Orange's STB activation server, using credentials that the Livebox normally holds and the BPI-R3 doesn't have access to**. The activation problem has been thoroughly characterised but is unresolved; the "Activation prerequisite" section below documents the findings and "Possible ways forward" lists the realistic paths.

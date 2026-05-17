@@ -1,3 +1,8 @@
+---
+title: Contributing
+nav_order: 99
+---
+
 # Contributing
 
 This repository documents replacing an Orange France Livebox with a Banana Pi BPI-R3 running OpenWrt plus a rooted Huawei MA5671A GPON SFP. Contributions are very welcome — this is a community resource and the accumulated knowledge benefits from corrections, additions, and adaptations for hardware combinations not yet documented.

@@ -1,3 +1,8 @@
+---
+title: "Phase 4: OMCI identity clone"
+nav_order: 10
+---
+
 # 09 — Phase 4: Clone the OMCI identity onto the MA5671A
 
 ## Goal

@@ -1,3 +1,8 @@
+---
+title: BPI-R3 specifics
+nav_order: 2
+---
+
 # 02 — Banana Pi BPI-R3 specifics
 
 Notes that apply specifically to the reference hardware. If you're using a different router, skip to [`03-ma5671a-specifics.md`](03-ma5671a-specifics.md) and adapt the SFP cage naming as you go.

@@ -1,3 +1,8 @@
+---
+title: "Phase 10: Stability monitoring"
+nav_order: 17
+---
+
 # 16 — Phase 10: Stability monitoring
 
 > **Status: work in progress (ongoing operational phase).** This is a 1-2 week observation period rather than a one-shot task. Once the migration is verified stable, the original ISP modem can be retired (Phase 11).

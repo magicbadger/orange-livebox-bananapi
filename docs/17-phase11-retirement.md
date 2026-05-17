@@ -1,3 +1,8 @@
+---
+title: "Phase 11: ISP modem retirement"
+nav_order: 18
+---
+
 # 17 — Phase 11: ISP modem retirement
 
 > **Status: work in progress (decision phase).** Final disposition of the ISP modem once stability monitoring has confirmed the direct-GPON setup is reliable.

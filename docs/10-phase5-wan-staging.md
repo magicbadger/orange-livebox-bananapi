@@ -1,3 +1,8 @@
+---
+title: "Phase 5: WAN config staging"
+nav_order: 11
+---
+
 # 10 — Phase 5: Stage the WAN configuration
 
 ## Goal

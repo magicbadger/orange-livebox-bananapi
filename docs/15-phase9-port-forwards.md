@@ -1,3 +1,8 @@
+---
+title: "Phase 9: Port forwards"
+nav_order: 16
+---
+
 # 15 — Phase 9: Replicate advanced TV / management port forwards
 
 > **Status: work in progress.** Optional. These rules are needed only if you want specific Orange TV decoder features (remote PVR, in-app remote control) and Orange remote management (TR-069) to keep working. The reference build hasn't yet validated each rule end-to-end against the live Orange services; we know what to forward, less so whether each Orange service still exercises the path.

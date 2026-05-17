@@ -1,3 +1,8 @@
+---
+title: "Phase 2: WiFi client migration"
+nav_order: 8
+---
+
 # 07 — Phase 2: Migrate clients (including IPTV decoder) to the router's WiFi
 
 ## Goal

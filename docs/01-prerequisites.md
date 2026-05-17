@@ -1,3 +1,8 @@
+---
+title: Prerequisites
+nav_order: 1
+---
+
 # 01 — Prerequisites
 
 What you need before starting the migration. The README has a condensed version of this; this document is the long form.

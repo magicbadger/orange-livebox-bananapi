@@ -1,0 +1,66 @@
+title: Direct GPON Termination on OpenWrt
+description: >-
+  Replacing an Orange France Livebox with a Banana Pi BPI-R3 running OpenWrt
+  and a rooted Huawei MA5671A GPON SFP. Phase 6 (direct GPON) is validated;
+  Phase 7 (IPTV) is characterised with a hybrid end state.
+
+remote_theme: just-the-docs/just-the-docs
+
+# Just the Docs settings
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+# Show the table of contents on each page (auto-generated from headings)
+heading_anchors: true
+
+# Auxiliary link in the upper right
+aux_links:
+  "View on GitHub":
+    - "https://github.com/magicbadger/orange-livebox-bananapi"
+aux_links_new_tab: true
+
+# "Edit this page on GitHub" link at the bottom of each page
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/magicbadger/orange-livebox-bananapi"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# Footer
+footer_content: >-
+  Licensed under
+  <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+  <a href="https://github.com/magicbadger/orange-livebox-bananapi">View on GitHub</a>.
+
+# Page-specific settings
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Plugins (allowed by GitHub Pages)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Files to exclude from the build
+exclude:
+  - CLAUDE.md
+  - phase5.md
+  - phase6-session2-memory-log.md
+  - orange-migration-plan.md
+  - phase7-iptv-next-steps.md
+  - "*.pcap"
+  - "*.pcapng"
+  - .gitignore
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

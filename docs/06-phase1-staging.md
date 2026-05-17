@@ -1,3 +1,8 @@
+---
+title: "Phase 1: Router behind ISP modem"
+nav_order: 7
+---
+
 # 06 — Phase 1: Router behind the ISP modem
 
 ## Goal

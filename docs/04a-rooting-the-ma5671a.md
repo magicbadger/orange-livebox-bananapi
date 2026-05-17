@@ -1,3 +1,8 @@
+---
+title: Rooting the MA5671A
+nav_order: 5
+---
+
 # 04a — Rooting the MA5671A (preflight for Phase 4)
 
 A pointer document, not a procedure. The canonical rooting walkthrough lives at hack-gpon.org and is maintained there; duplicating it here would mean two places to keep in sync. This file covers:

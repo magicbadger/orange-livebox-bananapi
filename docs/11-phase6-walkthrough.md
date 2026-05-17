@@ -1,3 +1,8 @@
+---
+title: "Phase 6: Direct GPON termination"
+nav_order: 12
+---
+
 # 11 — Phase 6: The fibre swap (direct GPON termination)
 
 ## Goal

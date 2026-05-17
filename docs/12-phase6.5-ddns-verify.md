@@ -1,3 +1,8 @@
+---
+title: "Phase 6.5: DDNS verification"
+nav_order: 13
+---
+
 # 12 — Phase 6.5: DDNS verification
 
 ## Goal
